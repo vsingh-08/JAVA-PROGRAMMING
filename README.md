@@ -11,3 +11,6 @@ This java code finds and prints the top K most frequently occurring numbers in a
 
 Program 4 - Share Traders
 This code calculates the maximum profit from stock prices using up to two transactions. It takes an array of stock prices as input, iterates through them to find two optimal buy-sell pairs, and then calculates the highest possible profit. This is achieved by keeping track of minimum prices and calculating potential profits on two passes through the data.
+
+Lab3
+Program 5 - Pay roll system for christ
