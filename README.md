@@ -13,4 +13,11 @@ Program 4 - Share Traders
 This code calculates the maximum profit from stock prices using up to two transactions. It takes an array of stock prices as input, iterates through them to find two optimal buy-sell pairs, and then calculates the highest possible profit. This is achieved by keeping track of minimum prices and calculating potential profits on two passes through the data.
 
 Lab3
+
 Program 5 - Pay roll system for christ
+This code collects data about the employees of christ university employees based on Hourly, Monthly and Executively paid employees.
+It collects information and calculates the total pay of the employees.
+
+Program 6- Pay roll test system
+This code also collects data about the employess the working of the code is different, it follows an easy to update meachanism, which means we can add code to the existing code for better performance.
+It uses the concept of overriding and polymorphism.
