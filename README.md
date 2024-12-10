@@ -1,4 +1,5 @@
 Lab1
+
 Program 1 - Credit Card Validator
 This java code validates an 8- or 9-digit credit card number using a series of checks based on a modified version of the Luhn algorithm. It removes the last digit, reverses the remaining digits, doubles alternate digits, sums them, and compares the result to the original last digit to determine if the card is valid.
 
@@ -6,6 +7,7 @@ Program 2 - Alphabet War Game
 This java code simulates a game where letters from two opposing sides (left and right) have assigned strengths, determining the outcome when words are compared. It supports default and custom letter strengths and allows for either single-word or two-word play modes. The game calculates scores based on letters present in each word and declares the side with the higher score as the winner.
 
 Lab2
+
 Program 3 - Top K Frequent Numbers
 This java code finds and prints the top K most frequently occurring numbers in an array provided by the user. It counts the occurrences of each number, sorts them based on frequency (and value if frequencies are tied), and outputs the K most frequent numbers. This approach uses a frequency array for counting and a 2D array for sorting by frequency and number.
 
@@ -21,3 +23,16 @@ It collects information and calculates the total pay of the employees.
 Program 6- Pay roll test system
 This code also collects data about the employess the working of the code is different, it follows an easy to update meachanism, which means we can add code to the existing code for better performance.
 It uses the concept of overriding and polymorphism.
+
+Lab4
+
+Program 7 - Professional Robber Class
+This program models a robber solving various configurations of the House Robber Problem (row, circular, square, and multi-type buildings) using dynamic programming. It demonstrates abstraction, polymorphism, and efficient problem-solving techniques in an interactive way.
+
+Lab5
+
+Program 8 - Bank Details 
+This Java program models multiple banks (BankA, BankB, BankC) using a common interface to display their balance and interest rates. It demonstrates encapsulation, polymorphism, and user interaction for data handling.
+
+Program 9 -   Water Consernvation
+This code calculates the total water trapped between blocks during a rainy season. It demonstrates abstraction, polymorphism, and efficient problem-solving techniques for water conservation scenarios.
