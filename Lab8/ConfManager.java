@@ -49,7 +49,7 @@ public class ConfManager extends javax.swing.JFrame {
     public void Connect() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/conference", "root", "vaidehi0804");
+            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/conference", "root", "");
         } catch (ClassNotFoundException ex) {
             Logger.getLogger(ConfManager.class.getName()).log(Level.SEVERE, null, ex);
         } catch (SQLException ex) {
